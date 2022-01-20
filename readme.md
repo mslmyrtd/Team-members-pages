@@ -1,5 +1,4 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
+Please click here for see my project https://mslmyrtd.github.io/Team-members-pages/
 
 # Project-006 : Team Members Page (HC-006)
 
